@@ -9,7 +9,6 @@ LCD程式:若距離超過100公分輸出error
 **活動照片**
 監控視窗程式:
 ![image](https://github.com/kenlu250/distence_measure/blob/master/P_20200306_094447.jpg)
-![image](https://github.com/kenlu250/distence_measure/blob/master/P_20200306_094443.jpg)
 LCD程式:
 ![image](https://github.com/kenlu250/distence_measure/blob/master/P_20200313_091951.jpg)
 ![image](https://github.com/kenlu250/distence_measure/blob/master/P_20200313_092009.jpg)
